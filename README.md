@@ -5,7 +5,7 @@ This project was utilizing Amazons RDS and uploading that data into PostgreSQL t
 
 ## Results:
 
-
+[](https://github.com/Coachnmomof3/Amazon_Vine_Analysis/blob/main/Results.jpg)
 * Vine:
 * Not-Vine:
 
