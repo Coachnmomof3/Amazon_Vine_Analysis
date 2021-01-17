@@ -7,20 +7,17 @@ This project was utilizing Amazons RDS and uploading that data into PostgreSQL t
 
 ![](https://github.com/Coachnmomof3/Amazon_Vine_Analysis/blob/main/Results.jpg)
 
-* Vine:
-* Not-Vine:
-
 ### How many Vine reviews and non-Vine reviews were there?
-* Vine
-* Not-Vine:
+* Vine: 334
+* Not-Vine: 61614
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-* Vine:
-* Not-Vine:
+* Vine: 139
+* Not-Vine: 32665
 
-## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-* Vine:
-* Not-Vine:
+### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+* Vine: 41.62%
+* Not-Vine: 53.02%
 
 ## Summary
 
