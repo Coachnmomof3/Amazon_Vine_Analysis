@@ -5,13 +5,13 @@ This project was utilizing Amazons RDS and uploading that data into PostgreSQL t
 
 ## Results:
 
-[results](https://github.com/Coachnmomof3/Amazon_Vine_Analysis/blob/main/Results.jpg)
+![](https://github.com/Coachnmomof3/Amazon_Vine_Analysis/blob/main/Results.jpg)
 
 * Vine:
 * Not-Vine:
 
 ### How many Vine reviews and non-Vine reviews were there?
-* Vine:
+* Vine
 * Not-Vine:
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
